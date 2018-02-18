@@ -1,0 +1,16 @@
+PODS:
+  - ServiceFramework (1.0.0)
+
+DEPENDENCIES:
+  - ServiceFramework (from `../ServiceFramework`)
+
+EXTERNAL SOURCES:
+  ServiceFramework:
+    :path: ../ServiceFramework
+
+SPEC CHECKSUMS:
+  ServiceFramework: 2bcc2a18f9f39047ac9d93c26653ede149dfd0f5
+
+PODFILE CHECKSUM: f90f08c8530e5458446f2a5dbf1be446388923c0
+
+COCOAPODS: 1.4.0
